@@ -1,6 +1,0 @@
-com\example\aiagent\config\WebCorsConfig.class
-com\example\aiagent\dto\ChatRequest.class
-com\example\aiagent\config\ChatConfig.class
-com\example\aiagent\controller\AgentController.class
-com\example\aiagent\dto\ChatResponse.class
-com\example\aiagent\AiAgentApplication.class
